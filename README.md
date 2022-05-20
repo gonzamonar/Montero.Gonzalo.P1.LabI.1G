@@ -1,13 +1,13 @@
-# Programación I
+# UTN-FRA Laboratorio I
 
 ---
 
-## Comisión 1ºG
-### Gonzalo F. Montero Arguibay
+## División 1G
+### 1º Parcial - Parte 2
+* Gonzalo F. Montero Arguibay
 
 ---
 
-### Primer Parcial | Parte Práctica
+### Tema | Mascotas
 
 ---
-
